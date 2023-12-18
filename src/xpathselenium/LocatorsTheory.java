@@ -1,4 +1,4 @@
-package AS;
+package xpathselenium;
 public class LocatorsTheory {
 //We can identify various elements on the web using locators.
 //

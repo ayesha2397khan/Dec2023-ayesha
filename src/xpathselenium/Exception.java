@@ -1,4 +1,4 @@
-package AS;
+package xpathselenium;
 public class Exception {
 //selenium.NoSuchElementException:----->When Unable to locate element
 //selenium.InvalidSelectorException:----> invalid selector: An invalid or illegal selector was specified	

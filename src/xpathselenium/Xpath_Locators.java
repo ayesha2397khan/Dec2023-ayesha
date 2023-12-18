@@ -1,4 +1,4 @@
-package AS;
+package xpathselenium;
 
 
 import org.openqa.selenium.By;
